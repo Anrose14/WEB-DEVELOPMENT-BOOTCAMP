@@ -1,4 +1,17 @@
-# SHAPEAI WEB DEV BOOTCAMP
+<head><style>
+*
+{
+  box-sizing: border-box;
+}
+.container{
+    display: flex;
+}
+.heading{
+    background-color: blue;
+    color: white;
+}
+</style></head>
+<body># SHAPEAI WEB DEV BOOTCAMP
 Hi  I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
@@ -23,4 +36,4 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-
+</body>
