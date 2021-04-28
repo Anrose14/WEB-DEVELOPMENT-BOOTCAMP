@@ -1,0 +1,11 @@
+*
+{
+  box-sizing: border-box;
+}
+.container{
+    display: flex;
+}
+.heading{
+    background-color: blue;
+    color: white;
+}
